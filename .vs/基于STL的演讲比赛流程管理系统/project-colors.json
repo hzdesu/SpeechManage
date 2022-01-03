@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70dd6799-ea52-497a-b70e-f9b639a7f332": {
+      "ProjectGuid": "70dd6799-ea52-497a-b70e-f9b639a7f332",
+      "DisplayName": "基于STL的演讲比赛流程管理系统",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
